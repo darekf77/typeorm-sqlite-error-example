@@ -1,0 +1,17 @@
+{
+  "name": "exapmlesqlbadsubs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "node dist/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sqlite3": "^4.0.2",
+    "tslib": "^1.9.3",
+    "typeorm": "^0.2.7",
+    "typescript": "^2.6.2"
+  }
+}
