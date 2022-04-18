@@ -1,5 +1,5 @@
 {
-  "name": "exapmlesqlbadsubs",
+  "name": "typeorm-sqlite-error-example",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
