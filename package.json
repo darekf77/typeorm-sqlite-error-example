@@ -15,8 +15,11 @@
     "libReleaseOptions": {
       "nodts": false,
       "obscure": false,
-      "ugly": false
-    }
+      "ugly": false,
+      "includeNodeModules": false
+    },
+    "smartContainerBuildTarget": "",
+    "linkedRepos": []
   },
   "name": "typeorm-sqlite-error-example",
   "version": "1.0.0",
